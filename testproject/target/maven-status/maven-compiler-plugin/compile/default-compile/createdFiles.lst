@@ -1,0 +1,9 @@
+testproject\Config\HibernateConfig.class
+testproject\model\Customer.class
+testproject\service\CustomerServiceImpl.class
+testproject\Config\AppInitializer.class
+testproject\service\CustomerService.class
+testproject\Controller\CustomerController.class
+testproject\Config\AppConfig.class
+testproject\dao\CustomerDaoImpl.class
+testproject\dao\CustomerDao.class
