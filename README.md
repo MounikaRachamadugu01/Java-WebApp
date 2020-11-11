@@ -1,1 +1,1 @@
-Java SpringMVC
+Java Spring MVC
